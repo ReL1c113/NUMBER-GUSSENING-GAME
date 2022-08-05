@@ -1,4 +1,5 @@
-x=56
+import random
+x=random.randint(1,100)
 print("WELCOME TO THE NO. GUSSENING GAME\nHOW MANY GUSSES YOU NEED")
 j=int(input())
 while(True):
